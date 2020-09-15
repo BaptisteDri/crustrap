@@ -1,0 +1,182 @@
+@font-face{
+	font-family: 'destroy x';
+	src: url('fonts/main/destroy x.ttf') format('truetype');
+}
+@font-face{
+	font-family: 'Space Comics';
+	src: url('fonts/main/Space Comics.ttf') format('truetype');
+}
+@font-face{
+	font-family: 'blues';
+	src: url('fonts/blues/DJB BLUEPRINT.ttf') format('truetype');
+}
+
+#header{
+	width: 100%;
+	height: 180px;
+	background: #222222;
+	margin-top: 0px;
+	text-align: center;
+}
+body{
+	background-color: #16181D;
+	margin: 0 0 0 0;
+}	
+div.titre{
+	display: block;
+	margin: 0 auto;
+	height: auto;
+	width: auto;
+}
+a.h1{
+	font-family: 'destroy x',arial,sans-serif;
+	text-decoration: none;
+	color: white;
+	font-size: 4.5em;
+	margin-top: 0;
+	margin-bottom: 0px;
+}
+div.separationst{
+	width: 100%;
+	height: 1.5px;
+	opacity: 0.2;
+	background: white;
+}
+h2{
+	font-family: 'Space Comics',arial,sans-serif;
+	text-align: center;
+	color: white;
+	font-size: 1.5em;
+	margin-top: 0;
+	margin-bottom: 0px;
+}
+p.description{
+	opacity: 0.5;
+	color: white;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 0.8em;
+	height: auto;
+}
+div.separationnd{
+	margin-top: ;
+	width: 100%;
+	height: 2px;
+	opacity: 0.5;
+	background: white;
+}
+
+
+
+
+
+#conteneur0 {
+	width: 999px;
+	margin-top: 25px;
+	margin-right: auto;
+	margin-left: auto;
+	display: flex;
+}
+
+#conteneur1 {
+	height: ;
+	width: 333px;
+}
+#conteneur2{
+	height: ;
+	width: 333px;
+	text-align: center;
+}
+#conteneur3{
+	height: ;
+	width: 333px;
+}
+
+
+iframe{
+	overflow:hidden;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    width: 300px;
+    height: 180px;
+    border: white solid 4px;
+    margin: auto;
+    display: block;
+}
+h3.genre{
+	font-family: sans-serif;
+	color: white;
+	margin-bottom: 2px;
+	margin-top: 0.5px;
+	text-align: center;
+}
+h3.description{
+	font-family: sans-serif;
+	color: white;
+	margin-bottom: 0.5px;
+	margin-top: 2px;
+	font-size: 0.9em;
+	text-align: center;
+}
+
+
+
+
+p.end{
+	text-align: center;
+	font-size: 0.6em;
+	font-family: sans-serif;
+	color: #222222;
+	float: right;
+	padding-right: 10px;
+}
+footer{
+	position: fixed;
+	bottom: -1px;
+	width: 100%;
+	height: auto;
+	background: white;
+}
+div.footer{
+	margin-right: auto;
+	margin-left: auto;
+	width: 415px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	opacity: 0.8;
+	height: auto;
+}
+a.twitterlink{
+	text-decoration: none;
+	font-family: sans-serif;
+	color: #222222;
+	font-size: 0.6em;
+	float: left;
+	padding-left: 2px;
+	padding-top: 10px;
+}
+img.twitterimg{
+	float: left;
+	padding-left: 10px;
+	padding-top: 6px;
+}
+a.cultureglink{
+	text-decoration: none;
+	font-family: 'blues', sans-serif;
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+img.culturegimg{
+	overflow:hidden;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    width: 180px;
+    height: 180px;
+    border: white solid 5px;
+    margin: auto;
+    display: block;
+}

@@ -1,0 +1,451 @@
+@font-face{
+	font-family: 'destroy x';
+	src: url('fonts/main/destroy x.ttf') format('truetype');
+}
+@font-face{
+	font-family: 'Space Comics';
+	src: url('fonts/main/Space Comics.ttf') format('truetype');
+}
+@font-face{
+	font-family: 'blues';
+	src: url('fonts/blues/DJB BLUEPRINT.ttf') format('truetype');
+}
+
+#header{
+	width: 100%;
+	height: 180px;
+	background: #222222;
+	margin-top: 0px;
+	text-align: center;
+}
+body{
+	background-color: #16181D;
+	margin: 0 0 0 0;
+}	
+div.titre{
+	display: block;
+	margin: 0 auto;
+	height: auto;
+	width: auto;
+}
+a.h1{
+	font-family: 'destroy x',arial,sans-serif;
+	color: white;
+	font-size: 4.5em;
+	text-decoration: none;
+}
+div.separationst{
+	width: 100%;
+	height: 1.5px;
+	opacity: 0.2;
+	background: white;
+}
+h2{
+	font-family: 'blues',arial,sans-serif;
+	text-align: center;
+	color: white;
+	font-size: 1.5em;
+	margin-bottom: 0px;
+	margin-top: 10px;
+}
+p.description{
+	opacity: 0.5;
+	color: white;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 0.8em;
+	height: auto;
+}
+div.separationnd{
+	margin-top: ;
+	width: 100%;
+	height: 2px;
+	opacity: 0.5;
+	background: white;
+}
+
+
+
+
+#conteneur0 {
+	margin-top: 50px;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+#conteneur2bis {
+	margin-right: auto;
+	margin-left: auto;
+	
+}#conteneur3bis {
+	margin-right: auto;
+	margin-left: auto;
+	
+}#conteneur4bis {
+	margin-right: auto;
+	margin-left: auto;
+	
+}#conteneur5bis {
+	margin-right: auto;
+	margin-left: auto;
+	
+}#conteneur1bis {
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+#conteneur1{
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 25px;
+}
+#conteneur2{
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 25px;
+}
+#conteneur3{
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 25px;
+}
+p.end{
+	font-size: 0.6em;
+	font-family: sans-serif;
+	color: #222222;
+	margin-bottom: 5px;
+	margin-top: 0px;
+}
+footer{
+	height: auto;
+	background: white;
+	text-align: center;
+	width: 100%;
+	position: fixed;
+	bottom: 0px;
+	padding-top: 5px;
+}
+a.twitterlink{
+	text-decoration: none;
+	font-family: sans-serif;
+	color: #222222;
+	font-size: 0.8em;
+	margin-bottom: 2px;
+}
+img.twitterimg{
+	height: 14px;
+	margin-right: 5px;
+}
+
+
+
+
+img.boimg{
+	overflow:hidden;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    width: 180px;
+    height: 180px;
+    border: #BEBAA4 solid 5px;
+    margin: auto;
+    display: block;
+}
+img.bluesimg{
+	overflow:hidden;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    width: 180px;
+    height: 180px;
+    border: #8BE7FB solid 5px;
+    margin: auto;
+    display: block;
+}
+img.chillimg{
+	overflow:hidden;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    width: 180px;
+    height: 180px;
+    border: #B99B90 solid 5px;
+    margin: auto;
+    display: block;
+}
+img.classiqueimg{
+	overflow:hidden;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    width: 180px;
+    height: 180px;
+    border: #8F7152 solid 5px;
+    margin: auto;
+    display: block;
+}
+img.crustpunkimg{
+	overflow:hidden;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    width: 180px;
+    height: 180px;
+    border: #000000 solid 5px;
+    margin: auto;
+    display: block;
+}
+img.danseimg{
+	overflow:hidden;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    width: 180px;
+    height: 180px;
+    border: #1D2178 solid 5px;
+    margin: auto;
+    display: block;
+}
+img.electroimg{
+	overflow:hidden;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    width: 180px;
+    height: 180px;
+    border: #CFD8FF solid 5px;
+    margin: auto;
+    display: block;
+}
+img.hardtekimg{
+	overflow:hidden;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    width: 180px;
+    height: 180px;
+    border: #AF7EA1 solid 5px;
+    margin: auto;
+    display: block;
+}
+img.instrumentalimg{
+	overflow:hidden;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    width: 180px;
+    height: 180px;
+    border: #716044 solid 5px;
+    margin: auto;
+    display: block;
+}
+img.jazzimg{
+	overflow:hidden;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    width: 180px;
+    height: 180px;
+    border: #000000 solid 5px;
+    margin: auto;
+    display: block;
+}
+img.kpopimg{
+	overflow:hidden;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    width: 180px;
+    height: 180px;
+    border: #F223A5 solid 5px;
+    margin: auto;
+    display: block;
+}
+img.metalimg{
+	overflow:hidden;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    width: 180px;
+    height: 180px;
+    border: #1C2433 solid 5px;
+    margin: auto;
+    display: block;
+}
+img.punkimg{
+	overflow:hidden;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    width: 180px;
+    height: 180px;
+    border: #464A67 solid 5px;
+    margin: auto;
+    display: block;
+}
+img.reggaeimg{
+	overflow:hidden;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    width: 180px;
+    height: 180px;
+    border: #137B40 solid 5px;
+    margin: auto;
+    display: block;
+}
+img.rapfrancaisimg{
+	overflow:hidden;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    width: 180px;
+    height: 180px;
+    border: #C3C3C1 solid 5px;
+    margin: auto;
+    display: block;
+}
+img.rapusimg{
+	overflow:hidden;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    width: 180px;
+    height: 180px;
+    border: #D58813 solid 5px;
+    margin: auto;
+    display: block;
+}
+img.rockimg{
+	overflow:hidden;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    width: 180px;
+    height: 180px;
+    border: #C51A0C solid 5px;
+    margin: auto;
+    display: block;
+}
+img.varietesfrancaisesimg{
+	overflow:hidden;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    width: 180px;
+    height: 180px;
+    border: #CCBEA3 solid 5px;
+    margin: auto;
+    display: block;
+}
+a.bolink{
+	text-decoration: none;
+	font-family: sans-serif;
+	color: white;
+	font-size: 1.5em;
+}
+a.blueslink{
+	text-decoration: none;
+	font-family: sans-serif;
+	color: white;
+	font-size: 1.5em;
+}
+a.chilllink{
+	text-decoration: none;
+	font-family: sans-serif;
+	color: white;
+	font-size: 1.5em;
+}
+a.classiquelink{
+	text-decoration: none;
+	font-family: sans-serif;
+	color: white;
+	font-size: 1.5em;
+}
+a.danselink{
+	text-decoration: none;
+	font-family: sans-serif;
+	color: white;
+	font-size: 1.5em;
+}
+a.crustpunklink{
+	text-decoration: none;
+	font-family: sans-serif;
+	color: white;
+	font-size: 1.5em;
+}
+a.electrolink{
+	text-decoration: none;
+	font-family: sans-serif;
+	color: white;
+	font-size: 1.5em;
+}
+a.hardteklink{
+	text-decoration: none;
+	font-family: sans-serif;
+	color: white;
+	font-size: 1.5em;
+}
+a.instrumentallink{
+	text-decoration: none;
+	font-family: sans-serif;
+	color: white;
+	font-size: 1.5em;
+}
+a.jazzlink{
+	text-decoration: none;
+	font-family: sans-serif;
+	color: white;
+	font-size: 1.5em;
+}
+a.kpoplink{
+	text-decoration: none;
+	font-family: sans-serif;
+	color: white;
+	font-size: 1.5em;
+}
+a.metallink{
+	text-decoration: none;
+	font-family: sans-serif;
+	color: white;
+	font-size: 1.5em;
+}
+a.punklink{
+	text-decoration: none;
+	font-family: sans-serif;
+	color: white;
+	font-size: 1.5em;
+}
+a.reggaelink{
+	text-decoration: none;
+	font-family: sans-serif;
+	color: white;
+	font-size: 1.5em;
+}
+a.rapfrancaislink{
+	text-decoration: none;
+	font-family: sans-serif;
+	color: white;
+	font-size: 1.5em;
+}
+a.rapuslink{
+	text-decoration: none;
+	font-family: sans-serif;
+	color: white;
+	font-size: 1.5em;
+}
+a.rocklink{
+	text-decoration: none;
+	font-family: sans-serif;
+	color: white;
+	font-size: 1.5em;
+}
+a.varietesfrancaiseslink{
+	text-decoration: none;
+	font-family: sans-serif;
+	color: white;
+	font-size: 1.5em;
+}
